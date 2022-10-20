@@ -19,11 +19,11 @@ const ImageSlider = ({ imageUrl }) => {
         );
       })}
       <div className='flex space-x-[5px] items-center absolute bottom-0 left-[50%] translate-x-[-50%]'>
-        <span onClick={() => setCurrent(0)} style={{backgroundColor: current === 0 ? 'white' : 'gray'}} className='h-[7px] w-[7px] rounded-[50%] bg-blue-500'></span>
-        <span onClick={() => setCurrent(1)} style={{backgroundColor: current === 1 ? 'white' : 'gray'}} className='h-[7px] w-[7px] rounded-[50%] bg-blue-500'></span>
-        <span onClick={() => setCurrent(2)} style={{backgroundColor: current === 2 ? 'white' : 'gray'}} className='h-[7px] w-[7px] rounded-[50%] bg-blue-500'></span>
-        <span onClick={() => setCurrent(3)} style={{backgroundColor: current === 3 ? 'white' : 'gray'}} className='h-[7px] w-[7px] rounded-[50%] bg-blue-500'></span>
-        <span onClick={() => setCurrent(4)} style={{backgroundColor: current === 4 ? 'white' : 'gray'}} className='h-[5px] w-[5px] rounded-[50%] bg-blue-500'></span>
+        <span onClick={() => setCurrent(0)} style={{backgroundColor: current === 0 ? 'white' : 'gray'}} className='h-[7px] w-[7px] cursor-pointer rounded-[50%] bg-blue-500'></span>
+        <span onClick={() => setCurrent(1)} style={{backgroundColor: current === 1 ? 'white' : 'gray'}} className='h-[7px] w-[7px] cursor-pointer rounded-[50%] bg-blue-500'></span>
+        <span onClick={() => setCurrent(2)} style={{backgroundColor: current === 2 ? 'white' : 'gray'}} className='h-[7px] w-[7px] cursor-pointer rounded-[50%] bg-blue-500'></span>
+        <span onClick={() => setCurrent(3)} style={{backgroundColor: current === 3 ? 'white' : 'gray'}} className='h-[7px] w-[7px] cursor-pointer rounded-[50%] bg-blue-500'></span>
+        <span onClick={() => setCurrent(4)} style={{backgroundColor: current === 4 ? 'white' : 'gray'}} className='h-[5px] w-[5px] rounded-[50%] cursor-pointer bg-blue-500'></span>
       </div>
       <div className='absolute right-2 cursor-pointer top-2'>
         <svg viewBox="0 0 32 32" 

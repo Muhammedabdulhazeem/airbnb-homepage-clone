@@ -310,7 +310,7 @@ export const RoomData = [
         rating: 4.86
     },
     {
-        imageUrl: [room1, room2, room3, room4, room5],
+        imageUrl: [room9, room11, room15, room14, room5],
         roomName: " 5 bedroom Duplex",
         location: "Lagos,Nigeria",
         hostName: "Dauda",
@@ -319,7 +319,7 @@ export const RoomData = [
         rating: 4.86
     },
     {
-        imageUrl: [room1, room2, room3, room4, room5],
+        imageUrl: [room7, room9, room10, room3, room2],
         roomName: " 5 bedroom Duplex",
         location: "Lagos,Nigeria",
         hostName: "Dauda",
@@ -328,7 +328,7 @@ export const RoomData = [
         rating: 4.86
     },
     {
-        imageUrl: [room1, room2, room3, room4, room5],
+        imageUrl: [room13, room12, room3, room9, room14],
         roomName: " 5 bedroom Duplex",
         location: "Lagos,Nigeria",
         hostName: "Dauda",
@@ -337,7 +337,7 @@ export const RoomData = [
         rating: 4.86
     },
     {
-        imageUrl: [room1, room2, room3, room4, room5],
+        imageUrl: [room5, room12, room11, room4, room15],
         roomName: " 5 bedroom Duplex",
         location: "Lagos,Nigeria",
         hostName: "Dauda",
@@ -346,7 +346,7 @@ export const RoomData = [
         rating: 4.86
     },
     {
-        imageUrl: [room1, room2, room3, room4, room5],
+        imageUrl: [room8, room14, room1, room3, room6],
         roomName: " 5 bedroom Duplex",
         location: "Lagos,Nigeria",
         hostName: "Dauda",
@@ -355,7 +355,7 @@ export const RoomData = [
         rating: 4.86
     },
     {
-        imageUrl: [room1, room2, room3, room4, room5],
+        imageUrl: [room15, room7, room9, room13, room4],
         roomName: " 5 bedroom Duplex",
         location: "Lagos,Nigeria",
         hostName: "Dauda",
@@ -364,7 +364,7 @@ export const RoomData = [
         rating: 4.86
     },
     {
-        imageUrl: [room1, room2, room3, room4, room5],
+        imageUrl: [room11, room12, room13, room14, room15],
         roomName: " 5 bedroom Duplex",
         location: "Lagos,Nigeria",
         hostName: "Dauda",
